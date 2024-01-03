@@ -1,1 +1,1 @@
-here i have done comepletd dasta trandoformation 
+here i have done the data transformation today and i will do next model trainging stuff
