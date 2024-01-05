@@ -1,1 +1,1 @@
-here i have done the data transformation today and i will do next model trainging stuff
+"Here, I have completed the data transformation today, and next, I will work on training the model. I have undertaken this machine learning project to understand the workflow, modular programming, and many aspects that are handled behind the scenes."
